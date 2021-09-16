@@ -1,0 +1,75 @@
+body{
+    background-color:rgb(172, 171, 160);
+}
+
+.logotipo{
+    float: left;
+    
+}
+
+.logotipo img{
+    height: 40px;
+}
+
+header{
+    background-color:rgb(197, 196, 179);
+    height: 40px;
+}
+
+h1 {
+   text-align: center;
+   margin-bottom: 30px;
+   margin-top: 40px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    text-align: center ;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img.esfinge{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+ }
+
+img.piramides{
+    height: 700px;
+    width: 1420px;
+}
+
+.form-select{
+    font-weight: bold;
+    width: 25%;
+    margin-left: 34%;
+}
+
+div.botao{
+    margin-left: 800px;
+    margin-top: -38px;
+}
+
+div.container{
+    margin-top: 20px;
+}
+
+.destinos{
+    text-align: center ;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+
+.carousel-item img{
+    height: 700px;
+    
+}
+
+.footer{
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
